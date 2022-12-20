@@ -1,6 +1,6 @@
 # Airbnb Clone
 
-It is a personal portfolio project from freecodegram React.js course.
+It is a personal portfolio project from freeCodeCamp.org React.js course.
 
 ## Installation
 
