@@ -17,3 +17,6 @@ Project is created with:
 
 ## Learned new things
 * React.js reusable components
+* Props
+* Mapping data
+
